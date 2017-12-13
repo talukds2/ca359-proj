@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Independent.ie"
+publishDir="docs"
 # preservetaxonomynames = true
 theme = "hugo-travelify-theme"
 DisqusShortname = "nikimonikado"
