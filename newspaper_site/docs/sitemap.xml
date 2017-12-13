@@ -48,6 +48,11 @@
   </url>
   
   <url>
+    <loc>http://example.org/post/kardashian/</loc>
+    <lastmod>2017-11-30T15:42:47+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/post/sportsnews/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
@@ -112,10 +117,6 @@
   </url>
   
   <url>
-    <loc>http://example.org/post/kardashian/</loc>
-  </url>
-  
-  <url>
     <loc>http://example.org/tags/dublin/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
@@ -147,6 +148,7 @@
   
   <url>
     <loc>http://example.org/tags/kardashian/</loc>
+    <lastmod>2017-11-30T15:42:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   

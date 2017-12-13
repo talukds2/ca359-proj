@@ -1,6 +1,6 @@
 ---
 title: "Dream Kardashian Makes Her Debut on Kardashian-Jenner Christmas Card"
-date: 2017-11-31T15:42:47Z
+date: 2017-11-30T15:42:47Z
 author: "Aine Harte"
 tags: ["Kardashian"]
 categories: ["Entertainment"]
