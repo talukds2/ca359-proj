@@ -1,5 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
+publishDir = "docs"
 title = "Independent.ie"
 # preservetaxonomynames = true
 theme = "hugo-travelify-theme"
