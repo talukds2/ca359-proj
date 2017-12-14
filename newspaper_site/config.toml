@@ -17,21 +17,6 @@ avatar = "css/images/avatar.png"
 logo = "css/images/logo.png"
 disable_mathjax = false # set to true to disable MathJax
 
-# Format dates with Go's time formatting
-date_format = "January 02, 2006"
-
-# Add custom assets with their paths relative to the static folder
-custom_css = []
-custom_js  = []
-
-# Create custom menu entries by defining a label and a link for
-# them. Since you can also link posts, you've the option the
-# place the links before or after them.
-#
-# E.g.: "Home" appears before all linked posts in the menu
-# and "Tags" / "Categories" after them.
-
-
 
 [[menu.main]]
 name  = "World News"
@@ -72,21 +57,17 @@ url   = "/vid/"
 weight = 20
 
 [social]
-# Add your social network accounts to the profile section on the left
-# by entering your username. The links to your account will be
-# created automatically.
 instagram       = "Independent.ie"
 youtube         = "IDGrandPrix2011"
 linkedin        = "irish-independent"
 facebook        = "Independent.ie"
 twitter         = "Independent_ie"
 
-# Enable and disable widgets for the right sidebar
+
 [params.widgets]
 recent_articles = true
 categories = true
 tags = true
-archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
 search = true
 author = true
 facebook_like = true
